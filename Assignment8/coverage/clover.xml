@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690056363506" clover="3.2.0">
+  <project timestamp="1690056363506" name="All files">
+    <metrics statements="89" coveredstatements="84" conditionals="6" coveredconditionals="6" methods="31" coveredmethods="31" elements="126" coveredelements="121" complexity="0" loc="89" ncloc="89" packages="5" files="11" classes="11"/>
+    <package name="Assignment8">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="Main.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/Main.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="26" count="13" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src.Model">
+      <metrics statements="35" coveredstatements="32" conditionals="6" coveredconditionals="6" methods="9" coveredmethods="9"/>
+      <file name="ViewModel.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/Model/ViewModel.js">
+        <metrics statements="35" coveredstatements="32" conditionals="6" coveredconditionals="6" methods="9" coveredmethods="9"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="27" type="stmt"/>
+        <line num="14" count="26" type="stmt"/>
+        <line num="15" count="26" type="stmt"/>
+        <line num="16" count="26" type="stmt"/>
+        <line num="17" count="26" type="stmt"/>
+        <line num="18" count="26" type="stmt"/>
+        <line num="19" count="26" type="stmt"/>
+        <line num="21" count="26" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="29" count="26" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="31" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="13" type="stmt"/>
+        <line num="39" count="26" type="stmt"/>
+        <line num="40" count="11" type="stmt"/>
+        <line num="41" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="11" type="stmt"/>
+        <line num="49" count="26" type="stmt"/>
+        <line num="50" count="9" type="stmt"/>
+        <line num="51" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="9" type="stmt"/>
+        <line num="59" count="26" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src.Repo">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="WorkspaceRepo.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/Repo/WorkspaceRepo.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src.UI">
+      <metrics statements="44" coveredstatements="42" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="16"/>
+      <file name="ChannelCard.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/ChannelCard.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="24" count="24" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="ChannelView.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/ChannelView.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="24" count="34" type="stmt"/>
+        <line num="26" count="30" type="stmt"/>
+      </file>
+      <file name="MessageCard.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/MessageCard.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="32" type="stmt"/>
+        <line num="31" count="32" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+      <file name="MessageView.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/MessageView.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+      <file name="WorkspaceCard.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/WorkspaceCard.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="190" type="stmt"/>
+        <line num="24" count="190" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="WorkspaceList.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/WorkspaceList.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="26" type="stmt"/>
+        <line num="16" count="26" type="stmt"/>
+        <line num="20" count="235" type="stmt"/>
+        <line num="22" count="190" type="stmt"/>
+      </file>
+      <file name="WorkspaceView.js" path="/Users/fernandoortiz/Desktop/CSE118Summer/Assignment8/Assignment8/src/UI/WorkspaceView.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="12" type="stmt"/>
+        <line num="20" count="12" type="stmt"/>
+        <line num="24" count="30" type="stmt"/>
+        <line num="26" count="24" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
